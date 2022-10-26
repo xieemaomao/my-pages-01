@@ -2,12 +2,11 @@
 
 welcome to my website
 
-I am Miaomiao Hou
+I am Miaomiao Hou and I am a student of SWUFE-UD.
 
 ##skills
 
-I can do:
+I like reading and singing, and I am learning Python,I finish my homework carefully every time.
 
-Python
-homework
+
  
